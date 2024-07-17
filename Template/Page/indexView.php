@@ -1,4 +1,3 @@
-
 <html>
     <body>
     <?php  require_once ('../Template/Partials/header.php'); ?>  

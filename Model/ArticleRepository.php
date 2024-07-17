@@ -12,5 +12,8 @@ class ArticleRepository {
     
     // retourne dans un tableau tous les produits 
     $articles = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+    return $articles;
    }
-}
+};
+
